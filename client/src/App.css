@@ -390,7 +390,7 @@ input {
 	align-items: center;
 	background-color: #fafafa;
   border-radius:10px;
-  margin: 100px 400px;
+  margin: 40px 400px;
 }
 
 .signup-left{
@@ -651,7 +651,7 @@ textarea{
 	background-color: #fafafa;
   border-radius:10px;
   width: 300px;
-  margin: 30px 30px;
+  margin: 20px 30px;
 }
 
 input {
