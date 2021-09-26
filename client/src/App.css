@@ -140,10 +140,10 @@ body {
 }
 
 .imge-wrapper-right {
- /* border: 3px solid green;  */
+
 display: flex;
 flex-direction: column;
-justify-content: space-around;
+justify-content: space-between;
 align-content: center;
 align-content: center;
 
