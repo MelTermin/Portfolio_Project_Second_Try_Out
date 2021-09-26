@@ -651,8 +651,9 @@ textarea{
 	background-color: #fafafa;
   border-radius:10px;
   width: 300px;
-  margin: 50px 30px;
+  margin: 30px 30px;
 }
+
 input {
   background-color: #eee;
   border: none;
