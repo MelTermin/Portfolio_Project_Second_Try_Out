@@ -805,3 +805,12 @@ input {
 	}
 
 }
+@media only screen and (max-width: 375px){
+  .signup-box {
+    border: 2px solid green;
+    position: relative;
+    top:-30px;
+    left: -20px;
+  }
+}
+
