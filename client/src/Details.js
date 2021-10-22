@@ -20,7 +20,7 @@ export const projectReact = [
     id: 3,
     name: 'Fitness App',
     image: `${Fitness}`,
-    atag:'https://github.com/MelTermin/final_project-di',
+    atag:'https://github.com/MelTermin/Fitness_App',
     category:"react"
   },
 
@@ -140,7 +140,7 @@ export const projectJavascript = [
       id: 2,
       name: 'Fitness App',
       image:`${Fitness}`,
-      atag:'https://github.com/MelTermin/Final-Project-Tryout',
+      atag:'https://github.com/MelTermin/Fitness_App',
       category:"node"
     },
 
